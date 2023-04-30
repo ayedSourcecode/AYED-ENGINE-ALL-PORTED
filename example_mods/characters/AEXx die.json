@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "xxloops",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 20,
+			"name": "xxconfirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "xxdie"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "My.mother/AEXx die",
+	"position": [
+		-300,
+		100
+	],
+	"healthicon": "AEXxicon",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		84,
+		213
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
