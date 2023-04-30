@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "ayed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sooooo what we got here . . . . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "ezra",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uuuummmmm soo that's is bf and gf lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop beep???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ooh boyfriend i think we have battle with him"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ayed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol how i battle with you also i am not fighting anymore"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "tf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeep boop bap ?!?!?!?!?!??!?!???!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uummm big guy can you battle with him like rap battle "
+		},
+		{
+			"sound": "",
+			"speed": 0.145,
+			"portrait": "ayed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ooh uumm alright ?"
+		}
+	]
+}
